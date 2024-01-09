@@ -1,3 +1,3 @@
 hello there
 
-person website is a work in progress
+minimal website --> https://yubel-dev.vercel.app/
