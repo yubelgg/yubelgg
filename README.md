@@ -1,3 +1,1 @@
-hello there
-
-minimal website --> https://yubel-dev.vercel.app/
+minimal website --> [homepage](https://yubelgg.netlify.app/)
