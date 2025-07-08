@@ -1,1 +1,1 @@
-minimal website --> [homepage](https://yubelgg.netlify.app/)
+minimal website --> [homepage](https://yulongwang.dev/)
